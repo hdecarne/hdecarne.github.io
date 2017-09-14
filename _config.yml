@@ -1,7 +1,7 @@
 title: hdecarne.github.io
 description: My GitHub developer page
 google_analytics: 
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-hacker
 
 gems:
