@@ -1,8 +1,0 @@
-title: hdecarne.github.io
-description: GitHub developer page
-google_analytics: 
-show_downloads: false
-theme: jekyll-theme-hacker
-
-gems:
-  - jekyll-mentions
