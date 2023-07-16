@@ -1,3 +1,4 @@
 title: carne.de
 description: GitHub developer page
-theme: jekyll-theme-hacker
+#theme: jekyll-theme-hacker
+remote_theme: daattali/beautiful-jekyll@6.0.1
