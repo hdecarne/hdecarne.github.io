@@ -1,3 +1,7 @@
 title: carne.de
-description: GitHub developer page
+description: My tools & knowledge bits
+
 theme: jekyll-theme-hacker
+
+github:
+  is_project_page: false
