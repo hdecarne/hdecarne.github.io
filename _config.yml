@@ -1,6 +1,7 @@
 title: carne.de
 description: My tools &amp; knowledge bits
-theme: minima
+#theme: minima
+remote_theme: minima
 
 show_excerpts: true
 
