@@ -1,3 +1,14 @@
 title: carne.de
-description: My tools & knowledge bits
+description: My tools &amp; knowledge bits
 theme: minima
+
+show_excerpts: true
+
+author:
+  name: Holger
+  email: "hdecarne@gmail.com"
+
+minima:
+  skin: dark
+  social_links:
+    - { platform: github,  user_url: "https://github.com/hdecarne" }
