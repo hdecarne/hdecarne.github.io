@@ -1,5 +1,6 @@
 ---
 layout: home
-tile: My tools & knowledge bits
+title: My tools & knowledge bits
 ---
-## For public use but at your own risk.
+# For public use but at your own risk.
+lorem ipsum ...

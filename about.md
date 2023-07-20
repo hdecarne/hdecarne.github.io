@@ -3,6 +3,7 @@ layout: page
 title: "About"
 permalink: /about
 ---
-# About
+lorem ipsum ...
 
 # Imprint (Impressum)
+lorem ipsum ...
