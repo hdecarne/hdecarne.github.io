@@ -1,13 +1,13 @@
 title: todo return new
 author: hdecarne
-email: hdecarne@gmail.com
-description: My tools &amp; knowledge bits
+#email: hdecarne@gmail.com
+description: My tools & knowledge bits
 
 github_username: hdecarne
 
 theme: minima
 
 header_pages:
-  - imprint.md
+  - about.md
 
 show_excerpts: true
