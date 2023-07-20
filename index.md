@@ -1,6 +1,7 @@
 ---
 layout: home
-title: My tools & knowledge bits
+title: todo return new
 ---
-# For public use but at your own risk.
+# My tools & knowledge bits
+## For public use but at your own risk.
 lorem ipsum ...
