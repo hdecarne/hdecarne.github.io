@@ -2,4 +2,4 @@ title: todo return new
 author: hdecarne
 #email: hdecarne@gmail.com
 description: My tools & knowledge bits, for public use but at your own risk.
-theme: jekyll-theme-hacker
+remote_theme: hdecarne/hacker
