@@ -7,7 +7,7 @@ description: >
 
 github_username: hdecarne
 
-theme: hacker
+theme: jekyll-theme-hacker
 
 header_pages:
   - about.md
