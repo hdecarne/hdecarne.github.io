@@ -3,3 +3,5 @@ author: hdecarne
 #email: hdecarne@gmail.com
 description: My tools & knowledge bits, for public use but at your own risk.
 remote_theme: hdecarne/hacker
+
+show_excerpts: true
