@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Using AWS/Route53 for DDNS
+tags: ute53 ipv6 ddns ipv4 ddns-client
 ---
-### Quick view
 [AWS/Route53](https://aws.amazon.com/route53/) provides a fully featured and configurable DNS service for a reasonable price.
 This makes it good choice for your Dynamic DNS setup. However Route53 is not yet well supported by the usual DDNS clients.
 The ddns-updater tool closes this gap.
