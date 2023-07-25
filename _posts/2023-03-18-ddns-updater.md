@@ -9,16 +9,16 @@ The ddns-updater tool closes this gap.
 
 <!--more-->
 
-To use [AWS/Route53](https://aws.amazon.com/route53/) for your Dynamic DNS an AWS account is required. Furthermore a hosted zone has to
-be setup in prior to using the ddns-updater tool (see Route53 documentation for how to do this). The ddns-updater tool is capable to update
-the A (IPv4) and AAAA (IPv6) records in this hosted zone with your host's current IPv4 and/or IPv6 address.
+ddns-updater is a command line tool to perform dynamic DNS (DDNS) updates. It provides various finder mechanisms to gather the
+running host's ip addresses and update mechanisms for several DNS backends.
 
-For example, if the Route53 hosted zone is *mydomain.net* with configured A and AAAA records for the server name *myhost.mydomain.net* the command line
+The following address detection mechanisms are supported:
+* Interface based (examining the addresses of the running host's interfaces)
+* UPnP based (querying the local network's router for the external IPv4 address)
+* Web based (querying one or more web based services to determine the running host's ip addresses)
 
-> java -jar ddns-updater-boot-<version\> --host myhost.mydomain.net
-
-will determine the current IPv4 and IPv6 address of the current host and update the A and AAAA records if they differ.
-Every 24h the update will be forced anyway to recover from undetected divergences. By applying the *--noipv4* or *--noipv6*
-command line option the update can be restricted according to the actual host setup.
+The following DNS backends are supported:
+* AWS/Route53 (updating AWS/Route53 zone information)
+* Web (invoking a web based service to update DNS)
 
 See the [ddns-updater](https://hdecarne-github.github.io/ddns-updater/) home page for the full command line description.
