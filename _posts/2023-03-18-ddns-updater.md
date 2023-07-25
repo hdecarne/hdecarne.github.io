@@ -21,4 +21,4 @@ The following DNS backends are supported:
 * AWS/Route53 (updating AWS/Route53 zone information)
 * Web (invoking a web based service to update DNS)
 
-See the [ddns-updater](https://hdecarne-github.github.io/ddns-updater/) home page for the full command line description.
+See the [ddns-updater](https://ddns-updater.carne.de) home page for the full command line description.
