@@ -5,6 +5,8 @@ description: My tools & knowledge bits, for public use but at your own risk.
 
 remote_theme: hdecarne/hacker
 
+analytics_site_id: 1
+
 show_excerpts: true
 excerpt_separator: "<!--more-->"
 
