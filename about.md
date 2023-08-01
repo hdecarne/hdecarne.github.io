@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "About"
-permalink: /about
+title: "Privacy statement/Datenschutzerklärung"
+permalink: /privacy
 ---
 lorem ipsum ...
 
