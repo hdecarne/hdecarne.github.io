@@ -4,7 +4,7 @@ title: "Privacy statement/Datenschutzerklärung"
 permalink: /privacy
 ---
 # Privacy statement
-This page is hosted on GitHub and subject to the GitHub privacy policy <https://docs.github.com/site-policy/privacy-policies/github-privacy-statement>
+This website is hosted on GitHub and subject to the GitHub privacy policy: <https://docs.github.com/site-policy/privacy-policies/github-privacy-statement>
 
 # Datenschutzerklärung
 Der Hoster dieser Seite erhebt in sog. Logfiles folgende Daten, die Ihr Browser übermittelt:
@@ -21,9 +21,9 @@ Besucher. Diese Daten führen wir nicht mit anderen Daten zusammen.
 
 Wir setzen für die Zurverfügungstellung unserer Website folgenden Hoster ein:
 
-GitHub Inc.
-88 Colin P Kelly Jr St
-San Francisco, CA 94107
+GitHub Inc.  
+88 Colin P Kelly Jr St  
+San Francisco, CA 94107  
 United States
 
 Dieser ist Empfänger Ihrer personenbezogenen Daten. Dies entspricht unserem berechtigten Interesse im Sinne des Art. 6 Abs. 1 S. 1 lit. f DSGVO, selbst 
