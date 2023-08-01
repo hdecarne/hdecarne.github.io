@@ -4,7 +4,8 @@ title: "Privacy statement/Datenschutzerklärung"
 permalink: /privacy
 ---
 # Privacy statement
-This website is hosted on GitHub and subject to the GitHub privacy policy: <https://docs.github.com/site-policy/privacy-policies/github-privacy-statement>
+This website is hosted on [GitHub](https://github.com) and subject to the GitHub privacy policy: 
+<https://docs.github.com/site-policy/privacy-policies/github-privacy-statement>
 
 # Datenschutzerklärung
 Der Hoster dieser Seite erhebt in sog. Logfiles folgende Daten, die Ihr Browser übermittelt:
@@ -30,7 +31,7 @@ Dieser ist Empfänger Ihrer personenbezogenen Daten. Dies entspricht unserem ber
 keinen Server in unseren Räumlichkeiten vorhalten zu müssen. Serverstandort ist USA.
 
 Weitere Informationen zu Widerspruchs- und Beseitigungsmöglichkeiten gegenüber GitHub finden Sie unter: 
-<https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-privacy-statement#github-pages>
+<https://docs.github.com/free-pro-team@latest/github/site-policy/github-privacy-statement#github-pages>
 
 Sie haben das Recht der Verarbeitung zu widersprechen. Ob der Widerspruch erfolgreich ist, ist im Rahmen einer Interessenabwägung zu ermitteln.
 
@@ -42,4 +43,4 @@ ohne die Verarbeitung nicht gewährleistet.
 GitHub hat Compliance-Maßnahmen für internationale Datenübermittlungen umgesetzt. Diese gelten für alle weltweiten Aktivitäten, bei denen GitHub 
 personenbezogene Daten von natürlichen Personen in der EU verarbeitet. Diese Maßnahmen basieren auf den EU-Standardvertragsklauseln (SCCs). Weitere 
 Informationen finden Sie unter: 
-<https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-data-protection-addendum#attachment-1–the-standard-contractual-clauses-processors>
+<https://docs.github.com/free-pro-team@latest/github/site-policy/github-data-protection-addendum#attachment-1–the-standard-contractual-clauses-processors>
