@@ -2,6 +2,7 @@
 layout: default
 title: "Privacy statement/Datenschutzerklärung"
 permalink: /privacy
+sitemap: false
 ---
 # Privacy statement
 This website is hosted on [GitHub](https://github.com) and subject to the GitHub privacy policy: 

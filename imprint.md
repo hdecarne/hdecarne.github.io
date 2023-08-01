@@ -2,6 +2,7 @@
 layout: default
 title: "Imprint/Impressum"
 permalink: /imprint
+sitemap: false
 ---
 # Imprint/Impressum
 
