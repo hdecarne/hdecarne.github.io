@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Privacy statement/Datenschutzerklärung"
-permalink: /privacy
+title: "Imprint/Impressum"
+permalink: /imprint
 ---
 lorem ipsum ...
 
