@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Privacy statement/Datenschutzerklärung"
+title: "Privacy/Datenschutz"
 permalink: /privacy
 sitemap: false
 ---
