@@ -1,8 +1,8 @@
 ---
-layout: default
 title: "Imprint/Impressum"
-permalink: /imprint
-sitemap: false
+showDate: false
+robots: "none"
+xml: false
 ---
 # Imprint/Impressum
 

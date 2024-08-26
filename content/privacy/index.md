@@ -1,8 +1,8 @@
 ---
-layout: default
 title: "Privacy/Datenschutz"
-permalink: /privacy
-sitemap: false
+showDate: false
+robots: "none"
+xml: false
 ---
 # Privacy statement
 This website is hosted on [GitHub](https://github.com) and subject to the GitHub privacy policy: 

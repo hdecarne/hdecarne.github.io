@@ -1,12 +1,12 @@
 ---
-layout: post
-title: Did you ever wonder what is inside a file
-tags: forensic-analysis fileformats filescanner
+title: "Did you ever wonder what is inside a file"
+summary: "Did you ever wonder what is inside a file. The FileScanner tool is capable to detect and decode several file formats ..."
+date: 2019-02-17
+draft: false
+tags: ["filescanner"]
 ---
 Did you ever wonder what is inside a file. The FileScanner tool is capable to detect and decode several file formats even recursively.
 Data structures can be inspected in detail. Contained data can be viewed or exported.
-
-<!--more-->
 
 This makes FileScanner a suitable tool for those who want to see a file's details or want to get a better understanding of a file format.
 

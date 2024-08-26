@@ -1,12 +1,12 @@
 ---
-layout: post
-title: Can't remember that openssl command line
-tags: certificate signing x509 certificate-authority csr certmgr certificate-management
+title: "Can't remember that openssl command line"
+summary: "Tired from looking up the monstrous openssl docs everytime I had to handle one of my certificates, I decided to make my life easier. The result is the Certificate Manager tool ..."
+date: 2018-09-30
+draft: false
+tags: ["certmgr"]
 ---
 Tired from looking up the monstrous openssl docs everytime I had to handle one of my certificates, I decided to make my life easier.
-The result is the Certificate Manager tool available for [download](https://github.com/hdecarne/certmgr/releases) now.
-
-<!--more-->
+The result is the Certificate Manager tool available for [download](https://github.com/hdecarne/certmgr/releases) here.
 
 Using Certificate Manager you can:
  * Create and manage your **private certificates** (signed by your own Certificate Authority)
