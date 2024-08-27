@@ -4,11 +4,11 @@ showDate: false
 robots: "none"
 xml: false
 ---
-# Privacy statement
+## Privacy statement
 This website is hosted on [GitHub](https://github.com) and subject to the GitHub privacy policy: 
 <https://docs.github.com/site-policy/privacy-policies/github-privacy-statement>
 
-# Datenschutzerklärung
+## Datenschutzerklärung
 Der Hoster dieser Seite erhebt in sog. Logfiles folgende Daten, die Ihr Browser übermittelt:
 
 IP-Adresse, die Adresse der vorher besuchten Website (Referer Anfrage-Header), Datum und Uhrzeit der Anfrage, Zeitzonendifferenz zur Greenwich Mean Time, 

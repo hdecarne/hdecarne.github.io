@@ -3,7 +3,7 @@ title: "Can't remember that openssl command line"
 summary: "Tired from looking up the monstrous openssl docs everytime I had to handle one of my certificates, I decided to make my life easier. The result is the Certificate Manager tool ..."
 date: 2018-09-30
 draft: false
-tags: ["certmgr"]
+tags: ["certmgr", "Certificate Management"]
 ---
 Tired from looking up the monstrous openssl docs everytime I had to handle one of my certificates, I decided to make my life easier.
 The result is the Certificate Manager tool available for [download](https://github.com/hdecarne/certmgr/releases) here.

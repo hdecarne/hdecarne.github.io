@@ -4,8 +4,6 @@ showDate: false
 robots: "none"
 xml: false
 ---
-# Imprint/Impressum
-
 Holger de Carne  
 Giselherstr. 16  
 80804 München
